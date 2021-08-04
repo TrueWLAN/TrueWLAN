@@ -4,7 +4,7 @@ I use Windows 10 as my main operating system and a Debian-based Linux Distributi
 
 The languages I speak include: German, Russian and English.
 
-Most Used Language: <em>Python</em>
+Most Liked Language: <em>I hate all of them...</em>
  
  <hr>
 
