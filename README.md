@@ -13,6 +13,10 @@ Most Used Language: <em>Python</em>
  
 <table>
               <td width="25%" align="center">
+                <span>Javascript</span><br><br><br>
+                <img height="58px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
+              </td>  
+              <td width="25%" align="center">
                 <span>Python</span><br><br><br>
                 <img height="65px" src="https://cdn.svgporn.com/logos/python.svg">
               </td> 
@@ -21,10 +25,6 @@ Most Used Language: <em>Python</em>
                 <img height="48px" src="https://cdn.discordapp.com/attachments/819694809765380146/835671441012949052/git.png">
               </td>
           <tr valign="mid">
-          <td width="25%" align="center">
-            <span>IntelliJ</span><br><br><br>
-            <img height="65px" src="https://cdn.svgporn.com/logos/intellij-idea.svg">
-          </td> 
           <td width="25%" align="center">
             <span>VSCode</span><br><br><br>
             <img height="65px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
