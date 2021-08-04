@@ -12,15 +12,6 @@ Most Used Language: <em>Python</em>
  
  
 <table>
-          <tr valign="top">
-            <td width="25%" align="center">
-              <span>Java</span><br><br><br>
-              <img height="65px" src="https://cdn.svgporn.com/logos/java.svg">
-            </td> 
-              <td width="25%" align="center">
-                <span>Javascript</span><br><br><br>
-                <img height="58px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
-              </td>  
               <td width="25%" align="center">
                 <span>Python</span><br><br><br>
                 <img height="65px" src="https://cdn.svgporn.com/logos/python.svg">
