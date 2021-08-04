@@ -12,6 +12,10 @@ Most Used Language: <em>Python</em>
  
  
 <table>
+               <td width="25%" align="center">
+                <span>Lua</span><br><br><br>
+                <img height="65px" src="https://cdn.svgporn.com/logos/lua.svg">
+              </td>  
               <td width="25%" align="center">
                 <span>Javascript</span><br><br><br>
                 <img height="58px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
@@ -24,6 +28,11 @@ Most Used Language: <em>Python</em>
                 <span>Git</span><br><br><br>
                 <img height="48px" src="https://cdn.discordapp.com/attachments/819694809765380146/835671441012949052/git.png">
               </td>
+           <tr valign="mid">
+          <td width="25%" align="center">
+            <span>VSCode</span><br><br><br>
+            <img height="65px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+          </td> 
           <tr valign="mid">
           <td width="25%" align="center">
             <span>VSCode</span><br><br><br>
