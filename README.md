@@ -30,8 +30,8 @@ Most Used Language: <em>Python</em>
               </td>
           <tr valign="mid">
           <td width="25%" align="center">
-            <span>IntelliJ</span><br><br><br>
-            <img height="65px" src="https://cdn.svgporn.com/logos/intellij-idea.svg">
+            <span>VSCode</span><br><br><br>
+            <img height="65px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
           </td> 
           <td width="25%" align="center">
             <span>VSCode</span><br><br><br>
