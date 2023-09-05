@@ -8,5 +8,5 @@
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`
 - 🌍 I'm mostly active on **Discord**
 - 🌱 Learning all about **Open Source**
-- 📫 Reach me: [TrueWLAN#0001](https://discord.com)
-- ⚡️ Fun fact: I will be a Student for at least 2 more Years.
+- 📫 Reach me: [TrueWLAN](https://discord.com)
+- ⚡️ Fun fact: I will be a Student for at least 1 more Years.
