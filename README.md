@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently a Student in **Augsburg**
+- 🏢 I'm currently an Apprentice in **Augsburg**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`
 - 🌍 I'm mostly active on **Discord**
 - 🌱 Learning all about **Open Source**
